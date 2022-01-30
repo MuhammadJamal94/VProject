@@ -52,7 +52,7 @@ This is a fully functional E2E and API workspace for testing and reuse.
 3) PHPT_T3 -> create new location
 4) PHPT_T4 -> update already created location
     
-### API Bugs found
+### Bugs found
 -	Admin tab is not always appearing to main Admin account
 
 -	New admin account do not save any pemissions given to it while creating the account
